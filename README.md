@@ -76,7 +76,7 @@ Splunk uses **role-based access control (RBAC)** to manage what users can see an
 
 ## 📩 Author
 
-**Faizan Syed**  
+**Faizanullah Syed**  
 Cybersecurity | SOC Analyst | Splunk Learner  
 🔗 [[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/faizanullah-syed-devops-engineer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BJiacrthwRtmpvLJdZp4LqQ%3D%3D))  
 📰 [Blog](https://unmaskcyber.com)  
